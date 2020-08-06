@@ -1,5 +1,12 @@
 ### Hi there, I'm [vuhe!](https://gitee.com/vuhe) 👋
 
+<img src="https://github.com/vuhe/vuhe/resources/banner.png">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 Hi, I'm vuhe, 一个在默默努力的Java菜鸟。
 
 - 🔭 我目前正在做我们团队的项目 [FileManagement](https://gitee.com/CloudFileManagement)

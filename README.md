@@ -19,7 +19,7 @@ Hi, I'm vuhe, 一个在默默努力的Java菜鸟。
 
 
 <a href="https://github.com/vuhe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuhe&show_icons=true&include_all_commits=true&theme=dark" alt="vuhe's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuhe&show_icons=true&include_all_commits=true&theme=dark&hide=stars" alt="vuhe's github stats" />
 </a>
 <a href="https://github.com/vuhe">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

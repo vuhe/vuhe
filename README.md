@@ -1,12 +1,5 @@
 ### Hi there, I'm [vuhe!](https://gitee.com/vuhe) 👋
 
-### My GitHub contributions as a Game of Life
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
-
-<br />
-<br />
-
 Hi, I'm vuhe, 一个在默默努力的Java菜鸟。
 
 - 🔭 我目前正在做我们团队的项目 [FileManagement](https://gitee.com/CloudFileManagement)

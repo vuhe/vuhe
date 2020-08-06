@@ -1,10 +1,10 @@
 ### Hi there, I'm [vuhe!](https://gitee.com/vuhe) 👋
 
-<img src="https://github.com/vuhe/vuhe/resources/banner.png">
+<img src="https://github.com/vuhe/vuhe/blob/master/resources/banner.png">
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/vuhe/count.svg" />
 </p>
 
 Hi, I'm vuhe, 一个在默默努力的Java菜鸟。

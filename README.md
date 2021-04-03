@@ -1,6 +1,6 @@
 ### Hi there, I'm [vuhe!](https://gitee.com/vuhe) 👋
 
-<img src="https://github.com/vuhe/vuhe/blob/master/resources/dino.gif">
+<img src="https://github.com/vuhe/vuhe/blob/main/resources/dino.gif">
 
 <p align="center"> 
   Visitor count<br>
